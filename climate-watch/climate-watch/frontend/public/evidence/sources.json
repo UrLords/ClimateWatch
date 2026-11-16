@@ -1,0 +1,101 @@
+[
+  {
+    "id": "catanzaro-wildfire",
+    "title": "Wildfires in Catanzaro 06",
+    "city": "Catanzaro",
+    "country": "Italy",
+    "coordinates": [
+      16.608815,
+      38.830666
+    ],
+    "areaCoordinates": null,
+    "locationAccuracy": "Published source coordinates; not independently surveyed.",
+    "topic": "smoke",
+    "mediaPath": "/evidence/catanzaro-wildfire.webm",
+    "mediaType": "video",
+    "posterPath": "/evidence/catanzaro-wildfire.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wildfires_in_Catanzaro_06.webm",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Wildfires_in_Catanzaro_06.webm",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Nicholas Gemini",
+    "recordedAt": "2015-08-18",
+    "footageKind": "Elevated field video",
+    "isLive": false,
+    "condition": "problem",
+    "verifiedObservations": [
+      "A grey-white plume rises from vegetation beside buildings.",
+      "The plume changes shape over the recorded sequence."
+    ],
+    "limitations": [
+      "Historical field video, not a connected CCTV feed.",
+      "Smoke appearance alone cannot identify ignition cause or toxic composition."
+    ],
+    "changes": "Original video; preview frame extracted at 5 seconds.",
+    "sha256": "d69ee388b35639f5272bab9533e92d4193e1d39bea1c038feba9e0c5b84d6207"
+  },
+  {
+    "id": "bali-river-waste",
+    "title": "Bali river waste",
+    "city": "Banjar / Lovina, Bali",
+    "country": "Indonesia",
+    "coordinates": null,
+    "areaCoordinates": null,
+    "locationAccuracy": "Exact camera position not published; named area only. Do not render as an exact camera pin.",
+    "topic": "waste",
+    "mediaPath": "/evidence/bali-river-waste.jpg",
+    "mediaType": "image",
+    "posterPath": "/evidence/bali-river-waste.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bali_river_waste.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bali_river_waste.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "DayakSibiriak",
+    "recordedAt": "2015-11-12",
+    "footageKind": "Field photograph",
+    "isLive": false,
+    "condition": "problem",
+    "verifiedObservations": [
+      "A dense pile of bags, containers and other litter spans much of the visible watercourse.",
+      "A narrow strip of water remains visible along the left edge."
+    ],
+    "limitations": [
+      "The image cannot establish flow capacity, complete blockage or a flood forecast.",
+      "Exact photographer position and a same-view clear baseline are unavailable."
+    ],
+    "changes": "JPEG resized to at most 1600 pixels on the longest side; no content removed or generated.",
+    "sha256": "12fda2b3ec9db4b4522045cc0447c88f7536a026ba5d288520dcf0d0fdd98f83"
+  },
+  {
+    "id": "awka-waste-drain",
+    "title": "Waste pollution in drain at umuzocha Awka Anambra state",
+    "city": "Umuzocha, Awka",
+    "country": "Nigeria",
+    "coordinates": null,
+    "areaCoordinates": null,
+    "locationAccuracy": "Exact camera position not published; named area only. Do not render as an exact camera pin.",
+    "topic": "waste",
+    "mediaPath": "/evidence/awka-waste-drain.jpg",
+    "mediaType": "image",
+    "posterPath": "/evidence/awka-waste-drain.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waste_pollution_in_drain_at_umuzocha_Awka_Anambra_state.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Waste_pollution_in_drain_at_umuzocha_Awka_Anambra_state.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "credit": "Johnnybam",
+    "recordedAt": "2026-07-05",
+    "footageKind": "Field photograph",
+    "isLive": false,
+    "condition": "problem",
+    "verifiedObservations": [
+      "Bags, bottles and wrappers occupy an open drainage channel.",
+      "Water is visible between the waste and vegetation."
+    ],
+    "limitations": [
+      "No grate is visible.",
+      "The image cannot prove that waste caused a flood or establish complete blockage."
+    ],
+    "changes": "JPEG resized to at most 1600 pixels on the longest side; no content removed or generated.",
+    "sha256": "a1a8a511d8aa00c97890235e16f54c06b7bbc762dc827ad80b43a6ad73ac0966"
+  }
+]

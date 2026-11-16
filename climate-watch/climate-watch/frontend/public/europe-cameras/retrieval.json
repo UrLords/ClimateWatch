@@ -1,0 +1,26 @@
+[
+  {
+    "presetId": "C0150301",
+    "imageUrl": "https://weathercam.digitraffic.fi/C0150301.jpg",
+    "lastModified": "Fri, 13 Nov 2026 08:28:16 GMT",
+    "etag": "\"4276928872285170dd49580a9b13bf29\"",
+    "downloadedAt": "2026-11-13T08:30:36.552638+00:00",
+    "bytes": 297234
+  },
+  {
+    "presetId": "C0150401",
+    "imageUrl": "https://weathercam.digitraffic.fi/C0150401.jpg",
+    "lastModified": "Fri, 13 Nov 2026 08:28:17 GMT",
+    "etag": "\"f770c1e02c26bfb66fb235b257b3b10c\"",
+    "downloadedAt": "2026-11-13T08:30:37.841497+00:00",
+    "bytes": 164345
+  },
+  {
+    "presetId": "C1451601",
+    "imageUrl": "https://weathercam.digitraffic.fi/C1451601.jpg",
+    "lastModified": "Fri, 13 Nov 2026 08:24:32 GMT",
+    "etag": "\"a784accc59572e25e0024c33d89b7b38\"",
+    "downloadedAt": "2026-11-13T08:30:42.254984+00:00",
+    "bytes": 242302
+  }
+]

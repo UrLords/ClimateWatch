@@ -1,0 +1,6 @@
+numpy
+opencv-python-headless
+pyyaml
+requests
+gradio_client
+ultralytics

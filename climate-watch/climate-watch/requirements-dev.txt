@@ -1,0 +1,4 @@
+pytest
+gradio
+gradio_client
+-r requirements.txt

@@ -1,0 +1,11 @@
+interval_sec: 30
+cameras:
+  - id: demo-folder
+    name: Replay demo (archived frames)
+    lat: -2.2136
+    lon: 113.9108
+    type: folder
+    url: data/replay/demo
+    source_license: "own archived footage"
+    has_sky: true
+    poll_sec: 1
